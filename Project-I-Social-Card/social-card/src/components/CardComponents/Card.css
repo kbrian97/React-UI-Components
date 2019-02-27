@@ -1,1 +1,23 @@
 /* All styles for your Card Components live here */
+a {
+    text-decoration: none;
+    position: absolute;    
+    max-width: 770px;
+    width:84%;
+    height: 78%;
+}
+
+.CardImg {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png');
+    height: 350px;
+    border-radius:5px; 
+    width: 86%;
+
+}
+
+.CardContent {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 86%;
+}
+
