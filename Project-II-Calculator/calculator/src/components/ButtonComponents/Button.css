@@ -1,0 +1,35 @@
+.action-btn {
+    display: inline-block;
+    height: 93px;
+    width: 73.5%;
+    border: 1px solid #969696;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    background: #fff;
+    cursor: pointer;
+}
+
+.num-btn {
+    cursor: pointer;
+    display: inline-block;
+    height: 93px;
+    line-height: 70px;
+    text-align: center;
+    font-size: 60px;
+    width: 24.5%;
+    border: 1px solid darkgrey;
+    background: white;
+}
+
+.operator {
+    background: #9f0023;
+    display: inline-block;
+    height: 95px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 60px;
+    width: 26.5%;
+    border: 1px solid darkgrey;
+    color: white;
+  }
