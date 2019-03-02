@@ -7,7 +7,7 @@ import NumberButton from './components/ButtonComponents/NumberButton';
 const App = () => {
   return (
     <div className="Container">
-      <CalcDisplay />
+      <CalcDisplay text="0"/>
       <ActionButton buttonStyle="action-btn" text="clear" />
       <NumberButton buttonStyle="operator" text="&divide;" />
       <NumberButton buttonStyle="num-btn" text="7" />

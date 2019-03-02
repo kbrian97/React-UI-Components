@@ -1,4 +1,5 @@
 .action-btn {
+    cursor: pointer;
     display: inline-block;
     height: 93px;
     width: 73.5%;
@@ -12,6 +13,7 @@
 
 .num-btn {
     cursor: pointer;
+    cursor: pointer;
     display: inline-block;
     height: 93px;
     line-height: 70px;
@@ -23,6 +25,7 @@
 }
 
 .operator {
+    cursor: pointer;
     background: #9f0023;
     display: inline-block;
     height: 95px;
